@@ -1,1 +1,1 @@
-for use dataset WESAD, please check dataset repo's
+for use dataset, please check dataset repo's
